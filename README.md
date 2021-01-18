@@ -1,20 +1,20 @@
 Laravel 5 & 6 & 7 Shopping Cart
 A Shopping Cart Implementation for Laravel Framework
-
+<br>
 Languages
 PHP  100.0%
-
+<hr>
 composer create-project --prefer-dist laravel/laravel:^7.0 project_name <br>
-composer create-project --prefer-dist laravel/laravel project_name
+composer create-project --prefer-dist laravel/laravel project_name <br>
+<hr>
+cd project_name<br>
+php artisan -V <br>
 
-cd project_name
-php artisan -V
+edit env. file <br>
 
-edit env. file
-
-mysql -u root -p
-create database db_name;
-exit
+mysql -u root -p <br>
+create database db_name; <br>
+exit <br>
 
 composer require laravel/ui
 php artisan ui bootstrap
