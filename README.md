@@ -9,22 +9,22 @@ composer create-project --prefer-dist laravel/laravel project_name <br>
 <hr>
 cd project_name<br>
 php artisan -V <br>
-
+<hr>
 edit env. file <br>
-
+<hr>
 mysql -u root -p <br>
 create database db_name; <br>
 exit <br>
-
-composer require laravel/ui
-php artisan ui bootstrap
-php artisan ui bootstrap –auth   or
-php artisan ui vue
-php artisan ui vue --auth
-composer require "darryldecode/cart:~4.0"   or
-composer require "darryldecode/cart"
-
-npm install && npm run dev
-php artisan migrate
-php artisan serve
+<hr>
+composer require laravel/ui <br>
+php artisan ui bootstrap <br>
+php artisan ui bootstrap –auth   or <br>
+php artisan ui vue <br>
+php artisan ui vue --auth <br>
+composer require "darryldecode/cart:~4.0"   or <br>
+composer require "darryldecode/cart" <br>
+<hr>
+npm install && npm run dev <br>
+php artisan migrate <br>
+php artisan serve <br>
 
