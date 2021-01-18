@@ -4,7 +4,7 @@ A Shopping Cart Implementation for Laravel Framework
 Languages
 PHP  100.0%
 
-composer create-project --prefer-dist laravel/laravel:^7.0 project_name
+composer create-project --prefer-dist laravel/laravel:^7.0 project_name <br>
 composer create-project --prefer-dist laravel/laravel project_name
 
 cd project_name
